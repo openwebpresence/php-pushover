@@ -4,7 +4,7 @@ Unoffical PHP library to send push mesages via pushover.net (tm).
 
 ## Getting Started
 
-    $ composer require hopenwebpresence/php-pushover
+    $ composer require openwebpresence/php-pushover
     
 ## Support and Licensing
 
