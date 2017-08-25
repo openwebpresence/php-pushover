@@ -8,4 +8,4 @@ Unoffical PHP library to send push mesages via pushover.net (tm).
     
 ## Support and Licensing
 
-Technical support is available at the official issue tracker: [`https://github.com/mailsmarty/mailsmarty-client/issues`](https://github.com/mailsmarty/mailsmarty-client/issues). If you need support, leave an issue request and we will contact you.
+Technical support is available at the official issue tracker: [`https://github.com/openwebpresence/php-pushover/issues`](https://github.com/openwebpresence/php-pushover/issues). If you need support, leave an issue request and we will contact you.
